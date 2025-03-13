@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0" pages="7">
-  <diagram name="Página-1" id="2nsyWGhhakWlyDxtI3QB">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0" pages="8">
+  <diagram name="Diagrama de Casos de Uso" id="2nsyWGhhakWlyDxtI3QB">
     <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -173,7 +173,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="DcQ0MhYOFitK9pdTuiSw" name="Página-2">
+  <diagram id="DcQ0MhYOFitK9pdTuiSw" name="Diagrama de Classes">
     <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -223,7 +223,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="pA_4tO0MYWnWNBzEQbH0" name="Página-3">
+  <diagram id="pA_4tO0MYWnWNBzEQbH0" name="Diagrama de Sequência">
     <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -339,7 +339,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ok5Vdc5UOC7dX43tB-GT" name="Página-4">
+  <diagram id="ok5Vdc5UOC7dX43tB-GT" name="Diagrama de Atividades">
     <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -462,7 +462,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ncnh-q_98eok-PSvSt4l" name="Página-5">
+  <diagram id="ncnh-q_98eok-PSvSt4l" name="Diagrama de Estado">
     <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -540,7 +540,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="BZOA9PH9ycKPQlSZSBjl" name="Página-6">
+  <diagram id="BZOA9PH9ycKPQlSZSBjl" name="Diagrama de Pacotes">
     <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -599,7 +599,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Otfw3Gakze98Vsh1ynnE" name="Página-7">
+  <diagram id="Otfw3Gakze98Vsh1ynnE" name="Diagrama de Componentes">
     <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -695,6 +695,14 @@
         <mxCell id="djZX0Z6mje2RX-lb0-12-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Diagrama de Componentes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="850" width="340" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HpIXkacXqQexDumk2CdZ" name="Página-8">
+    <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
