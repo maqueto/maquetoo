@@ -167,6 +167,9 @@
         <mxCell id="BOqVeiPKmgCXwHKWF-ZB-36" value="gerenciar empregados" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="415" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="INKmF8pPSoUnFoH9dILN-2" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 24px;&quot;&gt;Diagrama de Casos de Uso&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="880" width="260" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -213,6 +216,9 @@
             <mxPoint x="585" y="500" as="sourcePoint" />
             <mxPoint x="745" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="heqS_m5sFIr4MdHCOx5j-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Diagrama de Classes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="740" width="470" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -326,6 +332,9 @@
           <mxGeometry x="0.0813" y="1" relative="1" as="geometry">
             <mxPoint x="-3" y="-19" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TcB7u7i8B2CXGWVeDaFG-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Diagrama de Sequência&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="760" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -447,6 +456,9 @@
         <mxCell id="doc0ePPv3beZ50agxqY0-29" value="Dá um lance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-s-UUkXwdlq9zfbTPRIa-1" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 24px;&quot;&gt;Diagrama de Atividades&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="760" width="260" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -522,6 +534,9 @@
         <mxCell id="M7EWyVFs4Yc9tmD-me11-14" value="Leiloeiro reiniciar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="510" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MSHXVp9TS_cMFTZ9UxUf-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Diagrama de Estado&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="260" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -577,6 +592,9 @@
             <mxPoint x="170" y="90" as="sourcePoint" />
             <mxPoint x="330" y="90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="92q8bsCuYHBUqQyonYQt-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Diagrama de Pacotes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="960" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -673,6 +691,9 @@
         </mxCell>
         <mxCell id="fGZvte3329ifvkr8zbmW-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Código de Produto&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="djZX0Z6mje2RX-lb0-12-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Diagrama de Componentes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="850" width="340" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
